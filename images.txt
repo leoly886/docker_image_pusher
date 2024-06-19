@@ -7,3 +7,13 @@ xhofe/alist:latest
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
+6053537/portainer-ce
+bl0m1/xtevedocker
+containrrr/watchtower
+hectorqin/reader
+jeessy/ddns-go
+Ivxj11/erpnext
+mongo
+rustdesk/rustdesk-server
+snowdreamtech/frps
+vaultwarden/server
